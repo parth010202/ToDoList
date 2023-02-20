@@ -1,0 +1,42 @@
+.main-container {
+  min-height: 100vh;
+  background: #d0bbaf;
+  max-height:auto ;
+  min-width: 100vh;
+  max-width: auto ;
+}
+
+.input-container {
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-list {
+  display: flex;
+}
+
+/* /* 
+.to-do-input{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 30%;
+} */
+/* .output-container {
+  height: 60%;
+}
+.card-container{
+  height: 50%;
+}
+
+.to-do-cards{
+  display: flex;
+  flex-wrap: wrap;
+} 
+.textfield {
+  border-radius: 20px;
+  border-color: aqua;
+} */
